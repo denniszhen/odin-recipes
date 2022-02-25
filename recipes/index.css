@@ -1,9 +1,16 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: grey;
+  padding: 20px;
+  margin: 20px;
 }
 
 img {
   width: 300px;
   height: 300px;
+}
+
+* {
+  border: 2px solid black;
+  box-sizing: border-box;
 }
